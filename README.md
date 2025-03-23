@@ -44,7 +44,7 @@ CashFlow is a modern, responsive frontend application designed for managing fina
     npm run dev
     ```
 
-5. Open your browser and go to `http://localhost:3000` to see the app in action.
+5. Open your browser and go to `http://localhost:5173` to see the app in action.
 
 ## Folder Structure
 
@@ -53,6 +53,12 @@ CashFlow is a modern, responsive frontend application designed for managing fina
   - **assets/**: Contains images, icons, and other media files used in the app.
   - **common/**: Reusable components such as `ButtonLink`, `StoreLinks`, and `LogoWall`.
   - **App.js**: The root component that renders all sections.
+
+## Design
+
+For a visual representation of the app's design, you can view the design PDF:
+
+- [CashFlow Web Design PDF](./design/landing-page.pdf) 
 
 ## Contributing
 
